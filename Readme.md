@@ -1,3 +1,6 @@
+# Deploy Link
+https://sparkling-lamington-4c496e.netlify.app/
+
 # Flexbox-&-Grid-Assignment
 
 Your task is to replicate the [Minimalissimo/about](https://minimalissimo.com/suggest) site (using `FLEXBOX`, `GRID` and `responsive design`).
